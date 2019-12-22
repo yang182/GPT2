@@ -25,3 +25,6 @@ def gpt2_predict(network, text, params):
             logger.info("=" * 40 + " SAMPLE " + str(i) + " " + "=" * 40 + "\n")
             logger.info(text)
             logger.info("\n" + "=" * 80 + "\n")
+
+
+sdfsdfs
